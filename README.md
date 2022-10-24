@@ -2,7 +2,7 @@
 title: Angry Carroll
 emoji: 😡
 colorFrom: red
-colorTo: blue
+colorTo: indigo
 sdk: gradio
 sdk_version: 3.6
 app_file: app.py
