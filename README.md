@@ -1,6 +1,6 @@
 ---
 title: Angry Carroll
-emoji: 📉
+emoji: 😡
 colorFrom: red
 colorTo: blue
 sdk: gradio
