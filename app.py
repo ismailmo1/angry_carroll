@@ -21,4 +21,4 @@ gradio_interface = gr.Interface(
     description="Is it Nunez or Carroll? Upload a picture of either and we'll \
         help you figure out which one it is!",
 )
-gradio_interface.launch(share=True)
+gradio_interface.launch()
